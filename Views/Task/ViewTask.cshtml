@@ -1,0 +1,13 @@
+﻿@model TaskManagementProject.Models.TaskManagmentModel
+
+<h2>Task Details</h2>
+
+<div>
+    <h4>@Model.Title</h4>
+    <p>@Model.Description</p>
+    <p><strong>Due Date:</strong> @Model.DueDate.ToShortDateString()</p>
+    <p><strong>Status:</strong> @Model.Status</p>
+</div>
+
+<a asp-action="EditTask" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
