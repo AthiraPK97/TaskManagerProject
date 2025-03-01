@@ -1,0 +1,166 @@
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\appsettings.json
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.exe
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.deps.json
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.runtimeconfig.json
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.runtimeconfig.dev.json
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\ref\TaskManagementProject.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.pdb
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.Views.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.Views.pdb
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.csprojAssemblyReference.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.AssemblyInfoInputs.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.AssemblyInfo.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorAssemblyInfo.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorAssemblyInfo.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\staticwebassets\TaskManagementProject.StaticWebAssets.Manifest.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\staticwebassets\TaskManagementProject.StaticWebAssets.xml
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\scopedcss\bundle\TaskManagementProject.styles.css
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.TagHelpers.input.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.TagHelpers.output.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorCoreGenerate.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\CreateProject.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\DeleteTask.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\EditTask.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Index.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\ViewTask.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorTargetAssemblyInfo.cache
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorTargetAssemblyInfo.cs
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.Views.pdb
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.csproj.CopyComplete
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\ref\TaskManagementProject.dll
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.pdb
+C:\Users\PROGRAMMER2\Desktop\Athira.p.k\New folder\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.genruntimeconfig.cache
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\appsettings.Development.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\appsettings.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.exe
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.deps.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.runtimeconfig.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.runtimeconfig.dev.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.pdb
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.Views.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\TaskManagementProject.Views.pdb
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Humanizer.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Collections.Immutable.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.AssemblyInfoInputs.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.AssemblyInfo.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.csproj.CoreCompileInputs.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.MvcApplicationPartsAssemblyInfo.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorAssemblyInfo.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorAssemblyInfo.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\scopedcss\bundle\TaskManagementProject.styles.css
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\staticwebassets\TaskManagementProject.StaticWebAssets.Manifest.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.TagHelpers.input.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.TagHelpers.output.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorCoreGenerate.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorTargetAssemblyInfo.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.RazorTargetAssemblyInfo.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.Views.pdb
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.csproj.CopyComplete
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.pdb
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.genruntimeconfig.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\ref\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Task\DeleteTask.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Task\EditTask.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Task\Index.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Task\ViewTask.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\Razor\Views\Task\CreateTask.cshtml.g.cs
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net5.0\ref\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\staticwebassets\TaskManagementProject.StaticWebAssets.xml
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net5.0\TaskManagementProject.csprojAssemblyReference.cache
